@@ -1,13 +1,5 @@
-html,
-body,
 .container{
-    height: 100%
-}
-body{
-    background-image: url(/img/christiann-koepke-386017.jpg)no-repeat center center
-        fixed;
-    -webkit-background-size:cover;
-    -moz-background-size:cover;
-    -o-backdround-size:cover;
-    background-size:cover;
+    background: black;
+    height: 100%;
+    width: 60%;
 }
