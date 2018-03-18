@@ -11,3 +11,4 @@ shopping online:house staffs
 3. Facebook icon
 4. Navbar
 5. coursell
+6. some of the items sold
