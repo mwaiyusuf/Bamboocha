@@ -1,5 +1,20 @@
-.container{
-    background: black;
-    height: 100%;
-    width: 60%;
+html,
+body,
+container{
+    background: white;
+}
+#ro{
+    background: white;
+}
+#log{
+    margin-left: 650px;
+}
+#my{
+    margin-left: 40px;
+}
+#hi{
+    margin-right: 20px;
+}
+#fa{
+    margin-top: 5px;
 }
