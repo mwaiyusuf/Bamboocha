@@ -9,3 +9,5 @@ shopping online:house staffs
 1. Salutations
 2. log in/my account
 3. Facebook icon
+4. Navbar
+5. coursell
