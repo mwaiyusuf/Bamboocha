@@ -13,4 +13,4 @@ shopping online:house staffs
 5. coursell
 6. some of the items sold
 7. Top selection
-8. items available,prices
+8. items available,prices,name tags of the items
