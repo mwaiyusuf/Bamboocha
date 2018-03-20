@@ -14,3 +14,4 @@ shopping online:house staffs
 6. some of the items sold
 7. Top selection
 8. items available,prices,name tags of the items
+9.Footer
