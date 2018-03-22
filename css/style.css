@@ -1,7 +1,7 @@
 html,
 body,
 container{
-    background: white;
+    background: white;;
 }
 #ro{
     background: white;
@@ -17,4 +17,57 @@ container{
 }
 #fa{
     margin-top: 5px;
+}
+#golo{
+    font-size: 40px;
+    margin-top: 30px;
+    margin-left: 50px;
+    margin-right: 20px;
+    margin-bottom: 35px;
+    color: hotpink;
+}
+#chin{
+    margin-top: 30px;
+}
+#we{
+    color: hotpink;
+}
+#wo{
+    font-size: 35px;
+    margin-top: 110px;
+    
+    color: white;
+}
+#fel{
+    background-color: orange;
+}
+#lle{
+    color: white;
+    font-size: 30px;
+    margin-left: 310px;
+    margin-top: 10px;
+}
+#pro{
+    margin-left: 400px;
+}
+#fu{
+    background-color: lightgray;
+}
+#con{
+    margin-left: 10px;
+}
+#foo{
+    margin-top: 20px;
+}
+#last{
+    margin-left: 350px;
+    margin-top: 30px;
+}
+#st{
+    margin-top: 20px;
+    margin-left: 380px;
+}
+#ed{
+    margin-top: 20px;
+    margin-left: 450px;
 }
