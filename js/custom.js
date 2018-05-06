@@ -15,6 +15,8 @@ function vans(){
        alert( size + " it will cost 2400 ");
         }
     var Age=prompt("Enter your Age");
-    alert()
+    if(Age<18){
+        alert("please visit the cartoon network");
+    }
 }
 vans();
