@@ -18,5 +18,8 @@ function vans(){
     if(Age<18){
         alert("please visit the cartoon network");
     }
+    else{
+        
+    }
 }
 vans();
