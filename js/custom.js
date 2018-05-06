@@ -15,5 +15,6 @@ function vans(){
        alert( size + " it will cost 2400 ");
         }
     var Age=prompt("Enter your Age");
+    alert()
 }
 vans();
