@@ -1,6 +1,6 @@
 var itemInput = document.getElementById("item");
    var clear = document.getElementById("clear");
-//   var submit = document.getElementById("submit");
+   var submit = document.getElementById("submit");
 //   var list = document.getElementById("list");
 //   function addItem() {
 //     var currentItem = itemInput.value;
