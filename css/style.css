@@ -88,7 +88,6 @@ p{
     margin-top: 150px; 
 }
 
-/*
 // Small devices (landscape phones, less than 768px)
 @media (max-width: 767.98px) { ... }
 
@@ -100,6 +99,5 @@ p{
 
 // Extra large devices (large desktops)
 // No media query since the extra-large breakpoint has no upper bound on its width
-*/
 
 
