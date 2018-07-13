@@ -105,7 +105,15 @@ container{
 
 // Large devices (desktops, less than 1200px)
 @media (max-width: 1199.98px) { 
-     
+     #golo{
+        font-size: 45px;
+    }
+    #wo{
+        font-size: 40px;
+    }
+    #lle{
+        font-size: 35px;
+    }
 
 
 }
