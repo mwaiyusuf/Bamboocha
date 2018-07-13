@@ -48,7 +48,7 @@ container{
     margin-top: 10px;
 }
 #pro{
-    margin-left: 400px;
+    margin-left: 200px;
 }
 #fu{
     background-color: lightgray;
@@ -82,6 +82,9 @@ container{
     #wo{
         font-size: 18px;
     }
+    #pro{
+        margin-left: 20px;
+    }
 /*
     #lle{
         font-size: 15px;
@@ -100,6 +103,9 @@ container{
     #wo{
         font-size: 22px;
     }
+    #pro{
+        margin-left: 20px;
+    }
 /*
     #lle{
         font-size: 24px;
@@ -116,6 +122,9 @@ container{
     }
     #wo{
         font-size: 40px;
+    }
+    #pro{
+        margin-left: 20px;
     }
 /*
     #lle{
