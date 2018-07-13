@@ -19,7 +19,7 @@ container{
     margin-top: 5px;
 }
 #golo{
-    font-size: 40px;
+/*    font-size: 40px;*/
     margin-top: 30px;
     margin-left: 50px;
     margin-right: 20px;
@@ -33,7 +33,7 @@ container{
     color: hotpink;
 }
 #wo{
-    font-size: 35px;
+/*    font-size: 35px;*/
     margin-top: 110px;
     
     color: white;
@@ -43,7 +43,7 @@ container{
 }
 #lle{
     color: white;
-    font-size: 30px;
+/*    font-size: 30px;*/
     margin-left: 310px;
     margin-top: 10px;
 }
