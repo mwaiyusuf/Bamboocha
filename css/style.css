@@ -71,6 +71,7 @@ container{
     margin-top: 20px;
     margin-left: 450px;
 }
+/*
 // Extra small devices (portrait phones, less than 576px)
 @media (max-width: 575.98px) { h1{
     font-size: 60px;
@@ -100,4 +101,5 @@ p{
 // Extra large devices (large desktops)
 // No media query since the extra-large breakpoint has no upper bound on its width
 
+*/
 
