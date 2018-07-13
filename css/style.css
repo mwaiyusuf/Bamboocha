@@ -44,7 +44,7 @@ container{
 #lle{
     color: white;
 /*    font-size: 30px;*/
-    margin-left: 310px;
+/*    margin-left: 310px;*/
     margin-top: 10px;
 }
 #pro{
@@ -82,10 +82,13 @@ container{
     #wo{
         font-size: 18px;
     }
+/*
     #lle{
         font-size: 15px;
+        margin-left: 200px;
     }
     
+*/
 }
 
 // Medium devices (tablets, less than 992px)
@@ -97,9 +100,12 @@ container{
     #wo{
         font-size: 22px;
     }
+/*
     #lle{
         font-size: 24px;
+        margin-left: 200px;
     }
+*/
 
 }
 
@@ -111,10 +117,12 @@ container{
     #wo{
         font-size: 40px;
     }
+/*
     #lle{
         font-size: 35px;
         margin-left: 450px;
     }
+*/
 
 
 }
