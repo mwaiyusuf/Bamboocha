@@ -19,7 +19,7 @@ function vans(){
         alert("please visit the cartoon network");
     }
     else{
-        alert("Welcome to this amazing site");
+        alert("Welcome to the most amazing site");
     }
 }
 vans();
