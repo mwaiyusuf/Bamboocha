@@ -12,7 +12,7 @@ function vans(){
         alert(" if its " + size + ", it cost 2000 ");
     }
         else{
-       alert( size + " it  cost 2400 ");
+       alert( size + " it  cost ksh.2400 ");
         }
     var Age=prompt("Enter your Age");
     if(Age<18){
