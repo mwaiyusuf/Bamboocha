@@ -9,7 +9,7 @@ function vans(){
         alert(" if its " + size + ", it cost 1500 ");
     }
     else if(size==8){
-        alert(" if its " + size + ", it cost 2000 ");
+        alert(" if its " + size + ", it cost ksh.2000 ");
     }
         else{
        alert( size + " it  cost ksh.2400 ");
