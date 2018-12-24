@@ -1,7 +1,7 @@
 function vans(){
     var name=prompt("Enter your name");
     alert("Hi " + name);
-    var size=prompt("enter your shoe size");
+    var size=prompt("enter your shoe size number");
     if(size==6){
         alert(" if its " + size + ",it cost 800 ");
     }
