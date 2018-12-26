@@ -6,7 +6,7 @@ function vans(){
         alert(" if its " + size + ",it cost ksh.800 ");
     }
     else if(size==7){
-        alert(" if its " + size + ", it cost 1500 ");
+        alert(" if its " + size + ", it cost ksh.1500 ");
     }
     else if(size==8){
         alert(" if its " + size + ", it cost ksh.2000 ");
