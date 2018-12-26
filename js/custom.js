@@ -14,12 +14,12 @@ function vans(){
         else{
        alert( size + " it  cost ksh.2400 ");
         }
-    var Age=prompt("Enter your Age");
-    if(Age<18){
-        alert("please visit the cartoon network");
-    }
-    else{
-        alert("Welcome to the most amazing site");
-    }
+//    var Age=prompt("Enter your Age");
+//    if(Age<18){
+//        alert("please visit the cartoon network");
+//    }
+//    else{
+//        alert("Welcome to the most amazing site");
+//    }
 }
 vans();
