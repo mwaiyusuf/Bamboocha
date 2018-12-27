@@ -1,5 +1,5 @@
 function vans(){
-    var name=prompt("Enter your full name");
+    var name=prompt("Enter your full names");
     alert("Hi " + name);
     var size=prompt("enter your shoe size no.");
     if(size==6){
